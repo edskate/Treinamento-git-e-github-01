@@ -10,8 +10,8 @@ HTML & CSS
 ```
 
 
-- [ ] HTML
-- [ ] CSS
-- [ ] javascript
-- [ ] Git & Github
+- [x] HTML
+- [x] CSS
+- [x] javascript
+- [x] Git & Github
 
